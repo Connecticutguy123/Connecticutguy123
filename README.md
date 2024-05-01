@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on everything 
 - 📫 How to reach me (203)-496-1693 
-- 😄 Pronouns: That guy! 
 - ⚡ Fun fact: Golden Retrievers are my favorite dog 
 
 <!---
